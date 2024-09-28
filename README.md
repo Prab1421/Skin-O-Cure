@@ -1,4 +1,4 @@
-# Saathi: Skin Disease Detection Tool
+# Skin-O-Cure: Skin Disease Detection Tool
 
 ## Introduction
 
